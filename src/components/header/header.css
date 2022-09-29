@@ -5,11 +5,12 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  margin-top: 5px;
+  margin-top: 25px;
   transform: translateY(-100px);
   opacity: 0;
   backdrop-filter: blur(20px);
   animation: fade-in 1s ease 1 forwards;
+  
 }
 
 @keyframes fade-in {

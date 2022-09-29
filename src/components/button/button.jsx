@@ -7,7 +7,7 @@ function Buttons() {
         Learn more
       </a>
       <a href="#contact" className="btn sec">
-        Get in Touch
+        Contact
       </a>
     </div>
   );
