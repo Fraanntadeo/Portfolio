@@ -3,7 +3,7 @@ import Home from "./components/home/home";
 import About from "./components/about/about";
 import Contact from "./components/contact/contact";
 import Navbar from "./components/nav/nav";
-import Members from "./components/members/members";
+//import Members from "./components/members/members";
 import Footer from "./components/footer/footer";
 
 function WebContent() {
@@ -15,7 +15,6 @@ function WebContent() {
       <Navbar />
       <Home />
       <About />
-      <Members />
       <Contact />
       <Footer />
     </>

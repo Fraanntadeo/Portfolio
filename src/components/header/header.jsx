@@ -6,7 +6,7 @@ function Header() {
       <h3>
         Thynuviel
       </h3>
-      <h2>Front-End Web Developer</h2>
+      <h2>Desarrollador Front-End</h2>
     </div>
   );
 }

@@ -26,11 +26,10 @@ function Home() {
       </a>
 
       <h2>
-        <span>About Me</span> <br />
+        <span>Acerca de mi</span> <br />
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis id
-          quos deserunt, maxime sint sunt tempore quidem ad praesentium itaque,
-          aspernatur, magnam culpa iste adipisci?
+          Estudiante de 𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗼 𝘄𝗲𝗯 𝗳𝘂𝗹𝗹 𝘀𝘁𝗮𝗰𝗸 en CoderHouse.
+          buscando empleo en el ámbito del Desarrollo frontend no sólo para aplicar los conocimientos adquiridos, sino también para continuar desarrollándome y crecer tanto personal como profesionalmente en el mundo laboral. Me encantan los desafíos y estoy siempre en constante movimiento, buscando adquirir nuevos conocimientos para cumplir con éxito mis objetivos.
         </p>
       </h2>
 

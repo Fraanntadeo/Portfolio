@@ -1,13 +1,13 @@
-import "./members.css";
+/*import "./members.css";
 
 const Members = () => {
   return (
     <div id="members" className="container members-container">
-      <h1 className="member-txt">Miembros</h1>
+      <h1 className="member-txt">Equipo de trabajo</h1>
       <div className="member member-1">
         <div className="member-img"></div>
         <div className="member-info">
-          <h1 className="name">FRANCO (Thynuviel)</h1>
+          <h1 className="name">Franco (Thynuviel)</h1>
           <h3 className="position">Lider</h3>
           <h4 className="about">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus
@@ -55,4 +55,4 @@ const Members = () => {
   );
 };
 
-export default Members;
+export default Members;*/
