@@ -1,4 +1,4 @@
-/*import "./members.css";
+import "./members.css";
 
 const Members = () => {
   return (
@@ -55,4 +55,4 @@ const Members = () => {
   );
 };
 
-export default Members;*/
+export default Members;
