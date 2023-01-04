@@ -19,11 +19,7 @@ function Contact() {
           </h2>
         </a>
 
-        <a
-          href="https://www.whatsapp.com/"
-          className="contact whatsapp"
-          target={"blank"}
-        >
+        <a href="https://www.whatsapp.com/" className="contact whatsapp" target={"blank"}>
           <AiOutlineWhatsApp className="icon" />
           <h2>
             whatsapp <span>PROXIMAMENTE</span>

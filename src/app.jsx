@@ -16,7 +16,6 @@ function WebContent() {
       <Members />
       <Contact />
       <Footer />
-      
     </>
   );
 }

@@ -13,6 +13,7 @@
 
 body {
   min-height: 100vh;
+  background: rgb(87, 87, 119);
   font-family: "Inter", sans-serif;
   animation: move 1s linear infinite forwards;
 }
@@ -38,7 +39,6 @@ body::after {
   width: 200px;
   filter: blur(140px);
 }
-
 
 ::-webkit-scrollbar {
   width: 0;
